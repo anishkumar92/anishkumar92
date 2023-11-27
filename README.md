@@ -10,8 +10,11 @@
 --- **PROJECT HIGHLIGHTS** ---
 
 •	**Movie Picker**: Angular-based app for movie recommendations.  [App](https://movie-picker-chi.vercel.app/) |  [Github](https://github.com/anishkumar92/PickAMovie)
+
 •	**Joke Teller** BOT: Interactive chatbot delivering jokes using JavaScript.  [App](https://anishkumar92.github.io/jokeTeller/) | [Github](https://github.com/anishkumar92/jokeTeller)
+
 •	**NPS Calculator**: Tool for calculating National Pension Scheme in Angular [App](https://nps-calculator.vercel.app/) | [Github](https://github.com/anishkumar92/nps-calculator)
+
 •	**Random Quote Generator**: JavaScript app to tweet random inspirational quotes.  [App](https://anishkumar92.github.io/quote-generator/) | [Github](https://github.com/anishkumar92/quote-generator)
 
 
