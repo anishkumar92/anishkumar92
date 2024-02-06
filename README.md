@@ -18,7 +18,7 @@
 •	**Random Quote Generator**: JavaScript app to tweet random inspirational quotes.  [App](https://anishkumar92.github.io/quote-generator/) | [Github](https://github.com/anishkumar92/quote-generator)
 
 
-- 🔭 I’m currently working on [Movie Picker](https://github.com/anishkumar92/PickAMovie)
+- 🔭 I’m currently working on [Movie Picker](https://github.com/anishkumar92/PickAMovie) | ADMIN PANEL FOR A VIDEO PLATFORM
 
 - 🌱 I’m currently learning **React**
 
