@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANISH KUMAR SRINIVAASAN</h1>
+<h1 align="center">Hi 👋, I'm Anish Kumar Srinivaasan</h1>
 <h3 align="center">Senior Angular Application Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkumar92&label=Profile%20views&color=0e75b6&style=flat" alt="anishkumar92" /> </p>
